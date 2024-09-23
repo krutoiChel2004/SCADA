@@ -1,0 +1,335 @@
+{
+  "Name": "Sensor1",
+  "IP": "172.16.39.98:502",
+  "reg": [
+    {
+      "name": "container_1_temp_top",
+      "data": {
+        "AddresReg": 21,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_1_temp_bottom",
+      "data": {
+        "AddresReg": 22,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_2_temp_top",
+      "data": {
+        "AddresReg": 23,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_2_temp_bottom",
+      "data": {
+        "AddresReg": 24,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_3_temp_top",
+      "data": {
+        "AddresReg": 25,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_3_temp_bottom",
+      "data": {
+        "AddresReg": 26,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_4_temp_top",
+      "data": {
+        "AddresReg": 27,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_4_temp_bottom",
+      "data": {
+        "AddresReg": 28,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_5_temp_top",
+      "data": {
+        "AddresReg": 29,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_5_temp_bottom",
+      "data": {
+        "AddresReg": 30,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_6_temp_top",
+      "data": {
+        "AddresReg": 31,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_6_temp_bottom",
+      "data": {
+        "AddresReg": 32,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_7_temp_top",
+      "data": {
+        "AddresReg": 33,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_7_temp_bottom",
+      "data": {
+        "AddresReg": 34,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_8_temp_top",
+      "data": {
+        "AddresReg": 35,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_8_temp_bottom",
+      "data": {
+        "AddresReg": 36,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_9_temp_top",
+      "data": {
+        "AddresReg": 37,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_9_temp_bottom",
+      "data": {
+        "AddresReg": 38,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_1_pressure_in",
+      "data": {
+        "AddresReg": 39,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_1_pressure_out",
+      "data": {
+        "AddresReg": 40,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_2_pressure_in",
+      "data": {
+        "AddresReg": 41,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_2_pressure_out",
+      "data": {
+        "AddresReg": 42,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_3_pressure_in",
+      "data": {
+        "AddresReg": 43,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_3_pressure_out",
+      "data": {
+        "AddresReg": 44,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_4_pressure_in",
+      "data": {
+        "AddresReg": 45,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_4_pressure_out",
+      "data": {
+        "AddresReg": 46,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_5_pressure_in",
+      "data": {
+        "AddresReg": 47,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_5_pressure_out",
+      "data": {
+        "AddresReg": 48,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_6_pressure_in",
+      "data": {
+        "AddresReg": 49,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_6_pressure_out",
+      "data": {
+        "AddresReg": 50,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_7_pressure_in",
+      "data": {
+        "AddresReg": 51,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_7_pressure_out",
+      "data": {
+        "AddresReg": 52,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_8_pressure_in",
+      "data": {
+        "AddresReg": 53,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_8_pressure_out",
+      "data": {
+        "AddresReg": 54,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_9_pressure_in",
+      "data": {
+        "AddresReg": 55,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_9_pressure_out",
+      "data": {
+        "AddresReg": 56,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_1_heater_temp",
+      "data": {
+        "AddresReg": 84,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_2_heater_temp",
+      "data": {
+        "AddresReg": 87,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_3_heater_temp",
+      "data": {
+        "AddresReg": 90,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_4_heater_temp",
+      "data": {
+        "AddresReg": 93,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_5_heater_temp",
+      "data": {
+        "AddresReg": 96,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_6_heater_temp",
+      "data": {
+        "AddresReg": 99,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_7_heater_temp",
+      "data": {
+        "AddresReg": 102,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_8_heater_temp",
+      "data": {
+        "AddresReg": 105,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "container_9_heater_temp",
+      "data": {
+        "AddresReg": 108,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "outside_temp",
+      "data": {
+        "AddresReg": 59,
+        "quantity": 2
+      }
+    },
+    {
+      "name": "control_unit_temp",
+      "data": {
+        "AddresReg": 16,
+        "quantity": 2
+      }
+    }
+  ]
+}
